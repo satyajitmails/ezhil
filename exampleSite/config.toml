@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Before memory fades"
+title = "Satyajit Panda"
 theme = "ezhil"
 paginate = 5
 
@@ -16,7 +16,7 @@ disqusShortname = "ezhil-demo"
 summaryLength = 20
 
 [params]
-	subtitle = "Before memory fades"
+	subtitle = ""
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
