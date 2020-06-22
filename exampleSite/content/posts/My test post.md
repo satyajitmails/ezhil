@@ -31,7 +31,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
    
- ![GitHub Logo](/images/logo.png)
+ ![GitHub Logo](/images/github.png)
 Format: ![Alt Text](url)
 
 http://github.com - automatic!
