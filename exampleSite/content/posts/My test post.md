@@ -37,6 +37,9 @@ Format: ![Alt Text](This is a alternate text!)
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+{{< figure src="https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80" title="Dave Herring" >}}
+
+
 As Kanye West said:
 
 > We're living the future so
