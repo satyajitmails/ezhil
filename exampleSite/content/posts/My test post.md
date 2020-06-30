@@ -32,7 +32,7 @@ _You **can** combine them_
    1. Item 3b
    
  ![GitHub Logo](/images/github.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](This is a alternate text!)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
