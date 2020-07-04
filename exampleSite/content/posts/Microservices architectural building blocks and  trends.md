@@ -155,7 +155,7 @@ Microservices architecture is not a panacea for every architectural problem. It 
 
 When starting to define a software architecture we should target a clean modular monolith-based design as a rule of thumb. It gives us the advantages of speed and the ability to gain quick feedback from users. Also, a well-designed modular monolith can handle the load for up to 10000 users in most cases. As the concept gains acceptance amongst the users and the number of users increases the monolith can be decomposed into microservices and each of the above microservices architectural building blocks can be added gradually. With the increased cloud computing adoption, the microservices architecture is becoming central to cloud-native application development.
 
->“A successful microservices journey requires serious software engineering rigour and commitment to engineering excellence, buy-in and support from a valid ROI driven business case, and having lots of fun! “
+>"A successful microservices journey requires serious software engineering rigour and commitment to engineering excellence, buy-in and support from a valid ROI driven business case, and having lots of fun! "
 
 
 
