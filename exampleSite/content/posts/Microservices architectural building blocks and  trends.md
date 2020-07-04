@@ -44,12 +44,12 @@ No matter which style of the communication we choose, we still need to deal with
 
 There are components and libraries available which provide these features like spring cloud Netflix, Alibaba, etc. Recently there is a rise in using service mesh components for the same due to their non-intrusive approach of residing as a sidecar along with the microservices component versus being embedded inside the service codebase like the above-mentioned framework and libraries. Leading players in this space are Istio, Linkerd, Envoy.
 
-### Service configuration
+### 3. Service configuration
 Each service may use some configuration data like file paths, date and time formats, environment-specific values, etc. As the number of services increases; creating, storing, updating, deleting the configurations becomes nontrivial and time-consuming. A configuration server component helps in storing and managing these configurations.
     
 Hashicorp Consul, Spring configuration server are few of the examples of configuration servers. We can also create our configuration servers by using a database.
 
-### Secrets management
+### 4. Secrets management
 Each service uses some infrastructure and application-level highly sensitive data like credentials, connection strings, API private keys, etc. which are not suitable to store in a version control system like git or a database. A secret manager component helps to store, managing those secrets. In some cases, it also helps in the creation of the secrets.
 
 ![GitHub Logo](/secrets_management.png)
@@ -57,12 +57,12 @@ Each service uses some infrastructure and application-level highly sensitive dat
 
 Hashicorp Vault is a great open-source option for a secret manager.AWS Secrets Manager, AWS Parameter Store, Azure Key Vault, GCP Cloud KMS are software-based options for a secret manager. Hardware security modules (HSM) like GCP Cloud HSM, Azure Key Vault and AWS Cloud HSM is provided by cloud providers to strengthen secret management. 
 
-### Observability
+### 5. Observability
 Logs, metrics, traces are called the golden triad of service observability
 which helps us to understand microservice execution behavior from end to end. An effective way to observe microservices' behavior is to also understand the whole systems' behavior, where we monitor the infrastructure and other components of the whole system along with the microservices. Application/cloud performance monitoring products like Dynatrace, Datadog, Newrelic, AppDynamics can be augmented with the above approaches to collect, monitor and analyze an end to end microservices system.
 
 ![GitHub Logo](/amazon_graph.jpeg)
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Call graphs of microservices in several organizations
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Call graphs of microservices in several organizations
 
 
 
