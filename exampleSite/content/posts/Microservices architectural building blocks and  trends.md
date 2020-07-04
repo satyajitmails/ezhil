@@ -62,7 +62,7 @@ Logs, metrics, traces are called the golden triad of service observability
 which helps us to understand microservice execution behavior from end to end. An effective way to observe microservices' behavior is to also understand the whole systems' behavior, where we monitor the infrastructure and other components of the whole system along with the microservices. Application/cloud performance monitoring products like Dynatrace, Datadog, Newrelic, AppDynamics can be augmented with the above approaches to collect, monitor and analyze an end to end microservices system.
 
 ![GitHub Logo](/amazon_graph.jpeg)
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Call graphs of microservices in several organizations
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Call graphs of microservices in several organizations
 
 
 
