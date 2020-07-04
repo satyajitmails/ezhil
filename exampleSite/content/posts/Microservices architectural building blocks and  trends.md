@@ -53,7 +53,7 @@ Hashicorp Consul, Spring configuration server are few of the examples of configu
 Each service uses some infrastructure and application-level highly sensitive data like credentials, connection strings, API private keys, etc. which are not suitable to store in a version control system like git or a database. A secret manager component helps to store, managing those secrets. In some cases, it also helps in the creation of the secrets.
 
 ![GitHub Logo](/secrets_management.png)
-(Lambda based microservice with secret manager provided DB credentials (source: aws.amazon.com)
+&nbsp; &nbsp;(Lambda based microservice with secret manager provided DB credentials (source: aws.amazon.com)
 
 Hashicorp Vault is a great open-source option for a secret manager.AWS Secrets Manager, AWS Parameter Store, Azure Key Vault, GCP Cloud KMS are software-based options for a secret manager. Hardware security modules (HSM) like GCP Cloud HSM, Azure Key Vault and AWS Cloud HSM is provided by cloud providers to strengthen secret management. 
 
