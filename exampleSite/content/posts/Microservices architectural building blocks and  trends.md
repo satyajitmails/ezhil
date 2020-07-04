@@ -65,16 +65,16 @@ which helps us to understand microservice execution behavior from end to end. An
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Call graphs of microservices in several organizations
 
  #### 5.1. Centralized Logging
-      A software system produces logs like application logs, system logs, or access logs. The log is an ordered, append-only data structure. A logline in its minimalistic form is a minimum is a timestamp and an event typically appended to the end of a file. A software system based on microservices architecture typically produces multiple logs from multiple components.    
-      These logs are picked by file uploaders like Logstash and transferred to centralized storage like Elasticsearch or Splunk and then queried and visualized by dashboards like Kibana, Grafana, etc.
-      
-      Humio is an interesting take in this space that uses an indexless approach during data ingestion so we can search the logs in real-time. It is super-fast and scalable.
+A software system produces logs like application logs, system logs, or access logs. The log is an ordered, append-only data structure. A logline in its minimalistic form is a minimum is a timestamp and an event typically appended to the end of a file. A software system based on microservices architecture typically produces multiple logs from multiple components.    
+These logs are picked by file uploaders like Logstash and transferred to centralized storage like Elasticsearch or Splunk and then queried and visualized by dashboards like Kibana, Grafana, etc.
+
+Humio is an interesting take in this space that uses an indexless approach during data ingestion so we can search the logs in real-time. It is super-fast and scalable.
 
 #### 5.2. Distributed Tracing
-      Microservices architecture is a distributed architecture where services are located in different machines, network or even data centers. One of the challenging issues with microservices is to trace the execution of requests through multiple distributed components.   
-      It becomes exponentially difficult when the number of components is large. To create a trace of the flow between components, the application code inside the service component is instrumented along with a correlation id. A correlation id or a trace id stitches all components together which is part of a transaction, workflow or an event chain allowing the end to end visibility of the flow.
-       
-     Jaeger, which is based on Google’s Dapper research paper, Zipkin are popular opensource frameworks for trace collection and monitoring. OpenTracing is an open standard that provides a vendor-neutral instrumentation framework. 
+Microservices architecture is a distributed architecture where services are located in different machines, network or even data centers. One of the challenging issues with microservices is to trace the execution of requests through multiple distributed components.   
+It becomes exponentially difficult when the number of components is large. To create a trace of the flow between components, the application code inside the service component is instrumented along with a correlation id. A correlation id or a trace id stitches all components together which is part of a transaction, workflow or an event chain allowing the end to end visibility of the flow.
+
+Jaeger, which is based on Google’s Dapper research paper, Zipkin are popular opensource frameworks for trace collection and monitoring. OpenTracing is an open standard that provides a vendor-neutral instrumentation framework. 
 
 #### 5.3. Metrics
 To understand the behavior of the services and systems, metrics reporting against time is used. Graphed, time-series metrics helps to get the behavioral snapshot of the system at a glance after new changes are introduced into the system in terms of code change or system upgradation.
@@ -88,7 +88,7 @@ automated CI/CD pipeline is a prerequisite to realize the benefits of microservi
 architecture.
 
 ![GitHub Logo](/ci_cd_dzone.png)
-Continuous delivery and integration for docker based microservices (source: dzone.com)
+&nbsp; &nbsp; &nbsp; &nbsp;Continuous delivery and integration for docker based microservices (source: dzone.com)
 
 Jenkins, TeamCity, Circle CI are the most popular open-source software for continuous integration. Octopus, Concourse, GoCD are some of the popular choices for continuous deployment. GitLab is an interesting take in this space with an end to end offering for CI/CD.
 
@@ -106,7 +106,7 @@ In non-docker environments, the deployable package containing microservice gets 
 In the case of docker deployable packages, they are deployed in a docker-compose or Kubernetes based platform which is responsible for docker container runtime orchestration. The orchestration platforms are responsible for container life cycle management, auto-scaling, health checks, etc. The Kubernetes platform can be self-hosted in our own data center or in a managed services environment provided by cloud providers like AWS EKS, Google GKE, AZURE AKS, etc. A step further in that direction is AWS Fargate and Google CloudRun where the abstraction moves upward to containers and we don’t need to deal with Kubernetes directly.
 
 ![GitHub Logo](/ci_cd_aws_docker.png)
-Docker based packaging and automated deploy in AWS (source: cloudacademy.com)
+&nbsp; &nbsp; &nbsp; &nbsp;Docker based packaging and automated deploy in AWS (source: cloudacademy.com)
 
 Recently code only, event-driven, function as a service, serverless platforms like AWS lambda, Google cloud functions, Azure functions have picked up and are at a stage where they can be part of a hybrid architecture and augment microservices architecture to pick some workloads.
 
@@ -114,7 +114,7 @@ Recently code only, event-driven, function as a service, serverless platforms li
 Microservices security is achieved by following multiple approaches based on solid security principles like zero trust with least privileged access. Authentication mechanisms like Oauth, JWT, SAML are used to secure the microservices with the use of validated tokens. Symmetric encryption techniques like AES and asymmetric encryption techniques like RSA is used with encryption key up to 256 bits to encrypt the data in rest and data in transit. It helps protect the data from the man in the middle attack and data corruption. Clearly defining the microservices boundaries and putting SSL initiation and termination at appropriate points helps to have a balance between security and performance. Role-based access for each microservices helps to protect it from privilege escalation attacks. In container-based microservices architecture based, security is taken care of by signing the images, scanning the images for vulnerabilities, hardening the base OS of containers, scanning containers for unnecessary port exposure, etc.
 
 ![GitHub Logo](/ms_security_kasun.png)
-Microservice security with JWT tokens (source: Kasun)
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Microservice security with JWT tokens (source: Kasun)
 
 Systems security being an end-to-end endeavor the above approaches needs to be well supported by other techniques like OS and network security, auditing, threat monitoring, incident reporting, etc. to achieve a foolproof security in a microservices setup.
 
@@ -158,7 +158,7 @@ Microservices architecture is not a panacea for every architectural problem. It 
 
 When starting to define a software architecture we should target a clean modular monolith-based design as a rule of thumb. It gives us the advantages of speed and the ability to gain quick feedback from users. Also, a well-designed modular monolith can handle the load for up to 10000 users in most cases. As the concept gains acceptance amongst the users and the number of users increases the monolith can be decomposed into microservices and each of the above microservices architectural building blocks can be added gradually. With the increased cloud computing adoption, the microservices architecture is becoming central to cloud-native application development.
 
-'''“A successful microservices journey requires serious software engineering rigour and commitment to engineering excellence, buy-in and support from a valid ROI driven business case, and having lots of fun! “
+>“A successful microservices journey requires serious software engineering rigour and commitment to engineering excellence, buy-in and support from a valid ROI driven business case, and having lots of fun! “
 
 
 
