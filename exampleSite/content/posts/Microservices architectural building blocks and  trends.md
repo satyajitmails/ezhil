@@ -1,8 +1,8 @@
 ---
-title: "Microservices architectural building blocks and  trends"
-date: 2020-06-30T20:46:58+05:30
-description: "Microservices architectural building blocks and  trends"
-tags: [Primer, todo]
+title: "Microservices architectural building blocks and trends"
+date: 2020-07-04T16:05:58+05:30
+description: "Microservices architectural building blocks and trends"
+tags: [microservices,cloud-native,aws,azure,gcp]
 ---
 
 In the digital age technology based on sound software architecture is a primary foundation for a successful business. The most important value driver of software architecture is the ability to experiment with end users by introducing a new business idea into production quickly. 
