@@ -1,7 +1,7 @@
 ---
 title: "Microservices architectural building blocks and trends"
 date: 2020-07-04T16:05:58+05:30
-description: "Microservices architectural building blocks and trends"
+description: "This posts talks about microservices architectural building blocks and recent trends"
 tags: [microservices,cloud-native,aws,azure,gcp,distributed computing]
 ---
 
