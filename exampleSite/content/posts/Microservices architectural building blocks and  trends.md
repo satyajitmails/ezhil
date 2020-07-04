@@ -22,7 +22,7 @@ Services need to find each other. They also have location transparency in a dist
 
 Hashicorp Consul, Netflix Eureka, Etcd are few of the examples of service registration and discovery servers.
 
-### Service to service communication
+### 2. Service to service communication
 
 A service communicates with other services for the execution of a functionality. There are multiple ways in which service to service communication can happen.
 
