@@ -17,5 +17,6 @@ Microservices architecture is a distributed server-side architecture based on lo
 Services need to find each other. They also have location transparency in a distributed architecture where services with short life cycles can reside in different containers/virtual machines/bare metals with continuously changing IP addresses. Service registration and discovery component allow services to register themselves by bootstrapping during start-up. They are found by other services and also find other services through the discovery server.
 
 ![GitHub Logo](/service_discovery.png)
+Service registration and discovery (source: nginx.com)
 
 Hashicorp Consul, Netflix Eureka, Etcd are few of the examples of service registration and discovery servers.
