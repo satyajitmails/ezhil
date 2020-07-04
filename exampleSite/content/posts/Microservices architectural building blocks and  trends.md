@@ -20,3 +20,11 @@ Services need to find each other. They also have location transparency in a dist
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Service registration and discovery (source: nginx.com)
 
 Hashicorp Consul, Netflix Eureka, Etcd are few of the examples of service registration and discovery servers.
+
+2.	Service to service communication
+A service communicates with other services for the execution of a functionality. There are multiple ways in which service to service communication can happen.
+
+![GitHub Logo](/Sync_vs_Async_messaging_Microsoft.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Synchronous vs. asynchronous messaging (source: microsoft.com)
+
+
