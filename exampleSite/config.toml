@@ -45,6 +45,11 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
+name = "email"
+icon = "envelope"
+url = "mailto:satyajitmails@gmail.com"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/satyajitmails"
