@@ -60,11 +60,6 @@ icon = "linkedin"
 url = "https://www.linkedin.com/in/satyajitpanda"
 
 [[params.social]]
-name = "email"
-icon = "envelope"
-url = "mailto:satyajitmails@gmail.com"
-
-[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
