@@ -55,6 +55,11 @@ icon = "twitter"
 url = "https://twitter.com/p_satyajit"
 
 [[params.social]]
+name = "linkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/satyajitpanda"
+
+[[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
