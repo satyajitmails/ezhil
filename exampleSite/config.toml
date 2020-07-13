@@ -45,11 +45,6 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "email"
-icon = "envelope"
-url = "mailto:satyajitmails@gmail.com"
-
-[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/satyajitmails"
@@ -63,6 +58,11 @@ url = "https://twitter.com/p_satyajit"
 name = "linkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/satyajitpanda"
+
+[[params.social]]
+name = "email"
+icon = "envelope"
+url = "mailto:satyajitmails@gmail.com"
 
 [[params.social]]
 name = "RSS"
