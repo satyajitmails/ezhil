@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://satyajitpanda.com/"
 languageCode = "en-us"
 title = "Satyajit Panda"
 theme = "ezhil"
@@ -48,6 +48,11 @@ weight = 4
 name = "Github"
 icon = "github"
 url = "https://github.com/satyajitmails"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/p_satyajit"
 
 [[params.social]]
 name = "RSS"
