@@ -1,7 +1,7 @@
 ---
 title: "Considerations for multicloud adoption in enterprises"
 date: 2020-08-24T16:05:58+05:30
-description: "This posts talks about multi cloud adoption in enterprises"
+description: "This posts talks about considerations for multi cloud adoption in enterprises"
 tags: [multicloud,cloud,aws,azure,gcp]
 draft: false
 ---
