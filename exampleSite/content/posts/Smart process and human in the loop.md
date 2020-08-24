@@ -1,12 +1,11 @@
 ---
 title: "Smart process and human in the loop"
-date: 2018-03-18T02:01:58+05:30
+date: 2018-04-02T02:01:58+05:30
 description: "Smart process and human in the loop"
 tags: [AI,Machine learning,Smart process,Human in the loop]
 draft: false
 ---
 
-# Smart process and human in the loop
 ## Why Human in the loop is important to create Smart Processes?
 
 Artificial intelligence (AI) or the intelligence of machines, is quietly becoming a part of our everyday life.
