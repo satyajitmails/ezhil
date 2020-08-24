@@ -1,12 +1,20 @@
 ---
+<<<<<<< HEAD:exampleSite/content/posts/Multi-cloud adoption in enterprises introduction.md
 title: "Multi-cloud adoption in enterprises"
 date: 2020-08-24T02:01:58+05:30
 description: "This posts talks about consideration of multi cloud adoption in enterprises"
 tags: [Primer, todo]
+=======
+title: "An introduction to multicloud adoption in enterprises"
+date: 2020-08-24T16:05:58+05:30
+description: "This posts talks about multi cloud adoption in enterprises"
+tags: [multicloud,cloud,aws,azure,gcp,distributed computing]
+>>>>>>> b4e41a41497feb9b55387f32de94761d549dbaba:exampleSite/content/posts/An introduction to multicloud adoption in enterprises.md
 draft: false
 ---
 
 # Introduction
+<<<<<<< HEAD:exampleSite/content/posts/Multi-cloud adoption in enterprises introduction.md
 Cloud computing is mainstream now and it is the major driver for digital transformation in enterprises. 
 The number of enterprises using or planning to use multiple clouds is growing. Primarily they use private
 cloud due to its security advantages and public cloud for innovation. There is a lot more to it when 
@@ -16,6 +24,9 @@ Now it has been extended to multi-cloud which is hybrid cloud + N, N is one or m
 For example, an enterprise started using the AWS cloud along with its on-premise data centre and later
 extended to use the Azure cloud as well. Some of the enterprises also use multiple public clouds without 
 an on-prem data centre.
+=======
+Cloud computing is mainstream now and it is the major driver for digital transformation in enterprises. The number of enterprises using or planning to use multiple clouds is growing. Primarily they use private cloud due to its security advantages and public cloud for innovation. There is a lot more to it when organisations choose the type of cloud which is the focus of this article. In the beginning phase of the cloud journey enterprises started adopting hybrid cloud which is a combination of on-premise and public cloud. Now it has been extended to multi-cloud which is hybrid cloud + N, N is one or more cloud providers. For example, an enterprise started using the AWS cloud along with its on-premise data centre and later extended to use the Azure cloud as well. Some of the enterprises also use multiple public clouds without an on-prem data centre.
+>>>>>>> b4e41a41497feb9b55387f32de94761d549dbaba:exampleSite/content/posts/An introduction to multicloud adoption in enterprises.md
 
 ![Rightscale image](/enterprise-cloud-strategy.png)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;RightScale State of the cloud report, 2020 (source: https://info.flexera.com/)
@@ -49,8 +60,8 @@ Security can never be let upon in the hands of the cloud providers. Cloud provid
 #### 2.3. Multi-cloud management
 When enterprise workloads are spread across different clouds, they need some visibility to the usage and cost control. Multi-cloud management tools are available which can help the enterprises to get insights into their cloud usage and spending patterns.
 
-## Conclusion
-The holy grail of cloud and that of multi-cloud is cost management. As of now, organisations are struggling with cloud cost controls and cloud sprawl. Cloud sprawl is running excess workloads in the cloud without the company’s knowledge. What organisations ultimately wants to achieve with a multi-cloud approach is cloud arbitrage. We are in the early days of cloud arbitrage which is dynamically shifting workloads across clouds to leverage relative price and performance advantages. As organisations use more cloud arbitrage it will result in higher QoS levels from cloud providers as a competitive differentiator which will ultimately benefit the organisations.
+### Conclusion
+The holy grail of cloud and that of multi-cloud is cost management. As of now, organisations are struggling with cloud cost controls and cloud sprawl. Cloud sprawl is running excess workloads in the cloud without the company’s knowledge. What organisations ultimately wants to achieve with a multi-cloud approach is cloud arbitrage. We are in the early days of cloud arbitrage which is dynamically shifting workloads across clouds to leverage relative price and performance advantages. As organisations use more cloud arbitrage it will result in higher QoS(Quality of Service) levels from cloud providers as a competitive differentiator which will ultimately benefit the organisations.
 
 
 
