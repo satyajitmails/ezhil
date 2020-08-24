@@ -42,7 +42,7 @@ Security can never be let upon in the hands of the cloud providers. Cloud provid
 When enterprise workloads are spread across different clouds, they need some visibility to the usage and cost control. Multi-cloud management tools are available which can help the enterprises to get insights into their cloud usage and spending patterns.
 
 ### Conclusion
-The holy grail of cloud and that of multi-cloud is cost management. As of now, organisations are struggling with cloud cost controls and cloud sprawl. Cloud sprawl is running excess workloads in the cloud without the company’s knowledge. What organisations ultimately wants to achieve with a multi-cloud approach is cloud arbitrage. We are in the early days of cloud arbitrage which is dynamically shifting workloads across clouds to leverage relative price and performance advantages. As organisations use more cloud arbitrage it will result in higher QoS(Quality of Service) levels from cloud providers as a competitive differentiator which will ultimately benefit the organisations.
+The holy grail of cloud and that of multi-cloud is cost management. As of now, organisations are struggling with cloud cost controls and cloud sprawl. *Cloud sprawl* is running excess workloads in the cloud without the company’s knowledge. What organisations ultimately wants to achieve with a multi-cloud approach is *cloud arbitrage*.*Cloud arbitrage* is dynamically shifting workloads across clouds to leverage relative price and performance advantages. We are in the early days of cloud arbitrage.As cloud arbitrage will become more mainstream organisations will use get benefitted by higher QoS(Quality of Service) levels and decreased cost.This will put cloud as the primary technology platform across the industry.
 
 
 
