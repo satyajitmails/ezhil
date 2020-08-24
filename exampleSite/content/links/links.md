@@ -1,14 +1,17 @@
 ---
-title: "These are the useful links "
+title: "Links which are useful to me"
 date: 2020-08-24T19:10:58+05:30
-description: "Links which are useful for me"
-tags: [Primer, todo]
+description: "Links which are useful to me"
+tags: [links, product, philosophy, mental models]
 draft: false
 ---
 
-# Links which are useful for me, and may help others
+### Learnings
 
 
-[link to Google!](http://google.com)
+#### 1. Paul Graham [http://www.paulgraham.com/!](http://www.paulgraham.com/)
+
+
+
 
   
