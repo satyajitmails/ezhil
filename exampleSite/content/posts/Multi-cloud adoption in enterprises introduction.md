@@ -11,7 +11,8 @@ Cloud computing is mainstream now and it is the major driver for digital transfo
 ![Rightscale image](/multicloud/enterprise-cloud-strategy.png)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;RightScale State of the cloud report, 2020 (source: https://info.flexera.com/)
 
-As per the RightScale State of the cloud report, 2020 around 87% of the enterprises surveyed use multiple clouds.
+As per the RightScale State of the cloud report, 2020 around 93% of the enterprises surveyed use multiple clouds.This is 
+a 9% increase in comparision to the data published in 2019.
 
 ### 1.Benefits
 The following are the benefits organisations are considering while looking into a multi-cloud adoption strategy.
