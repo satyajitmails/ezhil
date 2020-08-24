@@ -9,7 +9,7 @@ draft: false
 ### Learnings
 
 
-#### 1. Paul Graham [http://www.paulgraham.com/!](http://www.paulgraham.com/)
+#### 1. Paul Graham [http://www.paulgraham.com/](http://www.paulgraham.com/)
 
 
 
