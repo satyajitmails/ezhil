@@ -9,9 +9,7 @@ tags: [multicloud,cloud,aws,azure,gcp,distributed computing]
 Cloud computing is mainstream now and it is the major driver for digital transformation in enterprises. The number of enterprises using or planning to use multiple clouds is growing. Primarily they use private cloud due to its security advantages and public cloud for innovation. There is a lot more to it when organisations choose the type of cloud which is the focus of this article. In the beginning phase of the cloud journey enterprises started adopting hybrid cloud which is a combination of on-premise and public cloud. Now it has been extended to multi-cloud which is hybrid cloud + N, N is one or more cloud providers. For example, an enterprise started using the AWS cloud along with its on-premise data centre and later extended to use the Azure cloud as well. Some of the enterprises also use multiple public clouds without an on-prem data centre.
 
 ![Rightscale image](/multicloud/rightscale-multicloud-report.jpg)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Service registration and discovery (source: nginx.com)
-
-To be replaced by the image from Rightscale
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Service registration and discovery (source: RightScale State of the cloud report, 2019)
 
 As per the RightScale State of the cloud report, 2019 around 84% of the enterprises surveyed use multiple clouds.
 
