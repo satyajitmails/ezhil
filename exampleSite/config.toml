@@ -11,13 +11,11 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = ""
-disqusShortname = "ezhil-demo"
 
 summaryLength = 20
 
 [params]
 	subtitle = ""
-	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
