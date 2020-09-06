@@ -131,5 +131,5 @@ The whole is always bigger than the sums.A team based attitude will always have 
 a big team.The pull of a team also helps everyone give their best shot.
 
 I have broken the article to two parts as I want to put the first part quickly while I write on the second part.The second part of the 
-article is full of quite interesting leadership wisdoms.Hopefully you have enjoyed it.Feedback’s and comments will be appreciated.
+article is full of quite interesting leadership wisdoms.I hope you have enjoyed it!
 
