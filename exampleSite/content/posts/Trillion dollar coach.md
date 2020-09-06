@@ -6,7 +6,7 @@ tags: [leadership,decison,team,organization]
 draft: false
 ---
 
-# Trillion dollar coach - Part One
+### Trillion dollar coach - Part One
 
 I recently went through a book called Trillion Dollar Coach: The Leadership Playbook of Silicon Valley’s Bill Campbell.
 The book is about Bill Campbell, the ex-football coach who transformed leadership styles of companies like Apple, Google,
@@ -30,8 +30,8 @@ It’s the people, it’s always the people.Top most priority of any manager is 
 who have understood can have all the earth and heaven at their command.
 
 I remember a story about Peter Levchin of Paypal.Whenever a new team member joins his team he will sit down with them and 
-ask their next 3-5 years professional and personal goal.Then he promised to help them in any manner possible to achieve the 
-goal and he is often successful doing that.There is no better way to win people then being a equal stakeholder in all of their success.
+ask their next 3-5 years professional and personal goal.Then he promises to help them in any manner possible to achieve the 
+goal and he follow through those promises.There is no better way to win people then being a equal stakeholder in all of their success.
 When you win your people they will do things beyond your imagination to make you successful.
 
 ### 3. Start with trip reports
@@ -131,6 +131,5 @@ The whole is always bigger than the sums.A team based attitude will always have 
 a big team.The pull of a team also helps everyone give their best shot.
 
 I have broken the article to two parts as I want to put the first part quickly while I write on the second part.The second part of the 
-article is full of quite interesting leadership wisdom.Hopefully you have enjoyed it.Feedback’s and comments will be appreciated.
+article is full of quite interesting leadership wisdoms.Hopefully you have enjoyed it.Feedback’s and comments will be appreciated.
 
-## Part two coming soon!
