@@ -9,16 +9,17 @@ draft: false
 ### Trillion dollar coach - Part One
 
 I recently went through a book called Trillion Dollar Coach: The Leadership Playbook of Silicon Valley’s Bill Campbell.
-The book is about Bill Campbell, the ex-football coach who transformed leadership styles of companies like Apple, Google,
-Intuit and many other startups throughout silicon value.Bill built teams and communities that delivered well over a trillion dollars
-in market value.This is written by google’s ex and current leadership team and one of the author is Eric Schmidt, the former 
-Google CEO.This book is based on Schmidt’s own experience with Bill and the interview the authors had with around 80 great
-leaders who credit Bill Campbell with playing a major role in their success.
+The book is about Bill Campbell, the ex-football coach who transformed leadership styles of companies like Apple, Google, 
+Intuit and many other start-ups throughout silicon value. Bill built teams and communities that delivered well over a trillion
+dollars in market value. The book is written by Google’s ex and current leadership team and one of the author is Eric Schmidt, 
+the former Google CEO. This book is based on Schmidt’s own experience with Bill and the interview the authors had with around 
+80 great leaders who credit Bill Campbell with playing a major role in their success.
 
-Bill’s principles strike a chord with me. I could very well relate to his style as I have seen it working with the best leaders I have
-worked with.I realised that the principles Bill employed is surprisingly similar with great leaders across the countries, industry 
-and hierarchy.The ability of picking winning behaviours and values and stick to it in every single time with every single persons
-in every single situations is what separates the goods  from the greats.
+Bill’s principles strike a chord with me. I could very well relate to his style as I have seen it working with the best leaders 
+I have worked with. I realised that the principles Bill employed is surprisingly similar with great leaders across the countries, 
+industry and hierarchy. The ability of picking winning behaviours, values and sticking to it in every single time with every single 
+person in every single situation is what separates the goods from the greats.
+
 
 ### 1. Your title makes you manager , your people makes you a leader
 Excellent managers accrue respect , they don’t demand it.I think about it so often lately and it comes to me as one of the first 
