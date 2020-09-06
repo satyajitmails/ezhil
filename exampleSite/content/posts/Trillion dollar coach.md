@@ -3,7 +3,7 @@ title: "Trillion dollar coach"
 date: 2020-09-06T11:01:10+05:30
 description: "This posts talks about Bill Campbell's leaderdership playbook from the book Trillion dollar coach"
 tags: [leadership,decison,team,organization]
-draft: true
+draft: false
 ---
 
 # Trillion dollar coach - Part One
@@ -78,14 +78,13 @@ in people more than they believe in themselves.This is the magic sauce and I hav
 beyond for the leaders they have trust on and produce outstanding results. 
 
 ### 11. Only coach the coachable 
-The trait that makes a person coachable includes honesty and humility, the willingness
-to persevere and work hard and a constant openness to learning.
+The trait that makes a person coachable includes honesty and humility, the willingnessto persevere and work hard and a 
+constant openness to learning.
 
-Any leader is a human.He is no god and not know any magic beyond the human acts.
-He has his limitations and one of them is that he can’t coach someone who don’t want to  
-be coached.But I have never seen a great leader who hasn’t made the hardest effort to coach everyone 
-and gave everyone a fair share of their due.People are changeable and they change positively with the right approach and 
-patience while respecting their boundaries.
+Any leader is a human.He is no god and not know any magic beyond the human acts.He has his limitations and one of them is 
+that he can’t coach someone who don’t want to be coached.But I have never seen a great leader who hasn’t made the hardest 
+effort to coach everyone and gave everyone a fair share of their due.People are changeable and they change positively with 
+the right approach and patience while respecting their boundaries.
 
 ### 12. Practice free-form listening
 Listen to people with your full and undivided attention.Don’t think ahead to what you are going to say next.
@@ -103,9 +102,9 @@ can sit next to me and have a discussion.”
 
 ### 13. No gap between statement and fact:
 
-I remember one of the leaders “I worked with always used to tell please do not create information - I expect my team to only state 
-facts and help me making decisions”.And he also does the same,always.Gradually everyone made it a habit of coming straight to the 
-point.Clear and crisp communication on the most critical points helps the teams to increase efficiency,increase energy by reducing 
+I remember one of the leaders I worked with always used to tell the team "please do not create information - I expect my team to only state 
+facts and help me making decisions”.And he also used to follow the principle seriously.Gradually everyone made it a habit of coming straight
+to the point.Clear and crisp communication on the most critical points helps the teams to increase efficiency,increase energy by reducing 
 clutter. 
 
 ### 14. Don’t stick it in their ear
@@ -132,6 +131,6 @@ The whole is always bigger than the sums.A team based attitude will always have 
 a big team.The pull of a team also helps everyone give their best shot.
 
 I have broken the article to two parts as I want to put the first part quickly while I write on the second part.The second part of the 
-article is full of more leadership wisdom.Hopefully you have enjoyed it.Feedback’s and comments will be appreciated.
+article is full of quite interesting leadership wisdom.Hopefully you have enjoyed it.Feedback’s and comments will be appreciated.
 
 ## Part two coming soon!
