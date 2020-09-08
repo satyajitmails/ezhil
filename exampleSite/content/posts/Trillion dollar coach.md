@@ -127,5 +127,5 @@ Team is paramount, so the most important things to look for in people is a team-
 the sums. A team-based attitude will always have bigger wins as an organisation is a big team. The pull of a team also helps 
 everyone give their best shot.
 
-I have broken the article to two parts as I want to put the first part quickly while I write the second part. The second part of 
-the article is full of quite interesting leadership wisdoms. I hope you have enjoyed it.
+I have broken the article to two parts. I hope you have enjoyed the first part. The second part of the article will contain more leadership
+wisdoms from Bill.
