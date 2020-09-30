@@ -2,7 +2,7 @@
 title: "Trillion dollar coach"
 date: 2020-09-06T11:01:10+05:30
 description: "This posts talks about Bill Campbell's leaderdership playbook from the book Trillion dollar coach"
-tags: [leadership,decison,team,organization]
+tags: [leadership,decision,team,organization]
 draft: false
 ---
 
