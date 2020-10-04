@@ -38,14 +38,19 @@ url = "/links"
 weight = 3
 
 [[menu.main]]
+name = "Slides"
+url = "/slides"
+weight = 4
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 5
+weight = 6
 
 [[params.social]]
 name = "Github"
