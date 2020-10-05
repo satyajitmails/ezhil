@@ -13,6 +13,7 @@ draft: false
 #### 2. Joel Spolsky. [https://www.joelonsoftware.com/](https://www.joelonsoftware.com/)
 #### 3. Marc Andreessen. [https://pmarchive.com](https://pmarchive.com)
 #### 4. Derek Sivers. [https://sivers.org/](https://sivers.org/)
+#### 5. Shane Parrish. [http://fs.blog/](http://fs.blog/)
 
 
 ### Blogs I read
