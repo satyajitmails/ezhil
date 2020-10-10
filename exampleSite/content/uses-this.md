@@ -9,13 +9,13 @@ draft: false
 ### Software
 
 #### MacOS
-##### 1. Application laucher - Alfred [https:/www.alfredapp.com/](https://www.alfredapp.com/)
+##### 1. Application laucher - [https:/www.alfredapp.com/](https://www.alfredapp.com/)
 ##### 2. Simple and effective - Apple Notes 
-##### 3. Terminal -  iterm [https://www.iterm2.com/](https://www.iterm2.com/)
+##### 3. Terminal - [https://www.iterm2.com/](https://www.iterm2.com/)
 
 #### Windows
-##### 1. Application launcher - Launchy  [https://www.launchy.net/](https://www.launchy.net/)
-##### 2. Automation - AutoHotKey [https://www.autohotkey.com/](https://www.autohotkey.com/)
+##### 1. Application launcher - [https://www.launchy.net/](https://www.launchy.net/)
+##### 2. Automation - [https://www.autohotkey.com/](https://www.autohotkey.com/)
 ##### 3. Terminal - https://conemu.github.io/ 
 ##### 4. Internet downloader - [https://www.internetdownloadmanager.com/](https://www.internetdownloadmanager.com/) 
 ##### 5. File explorer - [https://www.ghisler.com/](https://www.ghisler.com/) 
