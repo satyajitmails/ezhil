@@ -50,4 +50,4 @@ draft: false
 ##### 9. BOSE Companion® 3 Series II multimedia system
 ##### 10. Dell 24 inch Ultra Thin Bezel LED Backlit Computer Monitor , IPS Panel with HDMI 
 ##### 11. Beyerdynamic DT 770 Pro 32 Ohm Headphones
-  
+##### 12. Jabra Talk 45 Bluetooth Headset  
