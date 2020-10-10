@@ -28,34 +28,29 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
 name = "Links"
 url = "/links"
-weight = 3
+weight =2
 
 [[menu.main]]
 name = "Slides"
 url = "/slides"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Tools"
 url = "/uses-this"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 6
+weight = 5
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 7
+weight = 6
 
 [[params.social]]
 name = "Github"
