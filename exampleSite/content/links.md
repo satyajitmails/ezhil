@@ -14,6 +14,13 @@ draft: false
 ##### 4. Derek Sivers. [https://sivers.org/](https://sivers.org/)
 ##### 5. Brendan D. Gregg. [http://www.brendangregg.com/](http://www.brendangregg.com/)
 
+#### 1. Paul Graham. [http://www.paulgraham.com/](http://www.paulgraham.com/)
+#### 2. Joel Spolsky. [https://www.joelonsoftware.com/](https://www.joelonsoftware.com/)
+#### 3. Marc Andreessen. [https://pmarchive.com](https://pmarchive.com)
+#### 4. Derek Sivers. [https://sivers.org/](https://sivers.org/)
+#### 5. Shane Parrish. [http://fs.blog/](http://fs.blog/)
+
+
 ### Blogs I read
 
 #### Software
