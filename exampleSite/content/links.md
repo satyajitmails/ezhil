@@ -18,7 +18,7 @@ draft: false
 
 #### Software
 
-##### 1. Netflix Tech Blog. [https://netflixtechblog.com//](https://netflixtechblog.com/)
+##### 1. Netflix Tech Blog. [https://netflixtechblog.com/](https://netflixtechblog.com/)
 ##### 2. High Scalability blog. [http://highscalability.com/](http://highscalability.com/)
 
 #### Business
