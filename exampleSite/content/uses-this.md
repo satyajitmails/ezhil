@@ -30,7 +30,7 @@ draft: false
 ##### 14. Code comparision - [https://www.scootersoftware.com/](https://www.scootersoftware.com/)
 
 
-General purpose
+#### General purpose
 ##### 1. Lastpass [https://www.lastpass.com/](https://www.lastpass.com/)
 ##### 2. Draw.io [https://app.diagrams.net/](https://app.diagrams.net/) 
 ##### 3. Document convertor - [https://pandoc.org/](https://pandoc.org/) 
