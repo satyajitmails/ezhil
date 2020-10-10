@@ -10,7 +10,7 @@ draft: false
 
 #### MacOS
 ##### 1. Application laucher - [https:/www.alfredapp.com/](https://www.alfredapp.com/)
-##### 2. Simple and effective - Apple Notes 
+##### 2. Simple and effective Note taking- Apple Notes 
 ##### 3. Terminal - [https://www.iterm2.com/](https://www.iterm2.com/)
 
 #### Windows
