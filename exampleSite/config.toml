@@ -43,7 +43,7 @@ url = "/slides"
 weight = 4
 
 [[menu.main]]
-name = "Uses-this"
+name = "Tools"
 url = "/usesthis"
 weight = 5
 
