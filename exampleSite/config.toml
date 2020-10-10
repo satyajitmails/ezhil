@@ -44,7 +44,7 @@ weight = 4
 
 [[menu.main]]
 name = "Tools"
-url = "/usesthis"
+url = "/uses-this"
 weight = 5
 
 [[menu.main]]
