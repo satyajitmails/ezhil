@@ -1,6 +1,6 @@
 ---
 title: "Considerations for multicloud adoption in enterprises"
-date: 2019-10-11T16:05:58+05:30 (Updated on August 18 2020)
+date: 2019-10-11T16:05:58+05:30 
 description: "This posts talks about considerations for multi cloud adoption in enterprises"
 tags: [multicloud,cloud,aws,azure,gcp]
 draft: false
@@ -13,7 +13,7 @@ Cloud computing is mainstream now and it is the major driver for digital transfo
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;RightScale State of the cloud report, 2020 (source: https://info.flexera.com/)
 
 As per the RightScale State of the cloud report, 2020 around 93% of the enterprises surveyed use multiple clouds.This is 
-a 9% increase in comparision to the data published in 2019.
+a 9% increase in comparision to the data published in 2019.(The above diagram and related text is updated on August 18 2020).
 
 ### 1.Benefits
 The following are the benefits organisations are considering while looking into a multi-cloud adoption strategy.
