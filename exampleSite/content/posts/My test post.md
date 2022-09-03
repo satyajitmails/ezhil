@@ -3,7 +3,7 @@ title: "My test post"
 date: 2018-03-18T02:01:58+05:30
 description: "Testbed for my learning"
 tags: [Primer, todo]
-draft: false
+draft: true
 ---
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
