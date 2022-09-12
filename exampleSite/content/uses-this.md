@@ -13,7 +13,6 @@ draft: false
 ##### 2. Simple and effective Note taking- Apple Notes 
 ##### 3. Terminal - [https://www.iterm2.com/](https://www.iterm2.com/)
 ##### 4. E-Book management - Calibre [https://calibre-ebook.com](https://calibre-ebook.com)
-##### 5. Diagramming - Draw.io [https://app.diagrams.net](https://app.diagrams.net)
 
 #### Windows
 ##### 1. Application launcher - [https://www.launchy.net/](https://www.launchy.net/)
