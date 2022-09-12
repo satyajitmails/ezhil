@@ -12,6 +12,8 @@ draft: false
 ##### 1. Application launcher - [https:/www.alfredapp.com/](https://www.alfredapp.com/)
 ##### 2. Simple and effective Note taking- Apple Notes 
 ##### 3. Terminal - [https://www.iterm2.com/](https://www.iterm2.com/)
+##### 4. E-Book management - Calibre [https://calibre-ebook.com](https://calibre-ebook.com)
+##### 5. Diagramming - Draw.io [https://app.diagrams.net](https://app.diagrams.net)
 
 #### Windows
 ##### 1. Application launcher - [https://www.launchy.net/](https://www.launchy.net/)
@@ -50,6 +52,7 @@ draft: false
 ##### 8: MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
 ##### 9: Anker AK-848061074772 6-Port USB Wall Charger 
 ##### 10. SoundMAGIC E80C Truly Wireless in Ear Earphone with Mic 
+##### 11: Kindle
 
 ### Archieved
 
