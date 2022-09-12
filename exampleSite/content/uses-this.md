@@ -32,8 +32,8 @@ draft: false
 
 
 #### General purpose
-##### 1. Lastpass [https://www.lastpass.com/](https://www.lastpass.com/)
-##### 2. Draw.io [https://app.diagrams.net/](https://app.diagrams.net/) 
+##### 1. Password Manager - Lastpass [https://www.lastpass.com/](https://www.lastpass.com/)
+##### 2. Diagramming - Draw.io [https://app.diagrams.net/](https://app.diagrams.net/) 
 ##### 3. Document convertor - [https://pandoc.org/](https://pandoc.org/) 
 ##### 4. VNC - [https://www.realvnc.com/en/connect/download/viewer/](https://www.realvnc.com/en/connect/download/viewer/)
 ##### 5. Virtualization - [https://www.virtualbox.org/](https://www.virtualbox.org/)
@@ -52,6 +52,8 @@ draft: false
 ##### 9: Anker AK-848061074772 6-Port USB Wall Charger 
 ##### 10. SoundMAGIC E80C Truly Wireless in Ear Earphone with Mic 
 ##### 11: Kindle
+##### 12: MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast PD Charging | Input- Type C and Micro USB| Triple Output
+##### 13: TVS Electronics Gold Prime Mechanical Keyboard
 
 ### Archieved
 
