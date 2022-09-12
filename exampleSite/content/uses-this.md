@@ -42,13 +42,24 @@ draft: false
 
 ##### 1. MacBook Pro
 ##### 2. Iphone X 
-##### 3. Logitech H151 Headset with Noise-Cancelling Boom Microphone 
-##### 5. Soundmagic E10 Earbuds
-##### 6. HONOR Band 5
-##### 7. Mi 10000mAH Lithium-ion Power Bank  
-##### 8. TP Link 7 port USB Hub 
-##### 9. BOSE Companion® 3 Series II multimedia system
-##### 10. Dell 24 inch Ultra Thin Bezel LED Backlit Computer Monitor , IPS Panel with HDMI 
-##### 11. Beyerdynamic DT 770 Pro 32 Ohm Headphones
-##### 12. Jabra Talk 45 Bluetooth Headset
-##### 13. Apple Magic Trackpad 2  
+##### 3. Beyerdynamic DT 770 Pro 32 Ohm Headphones
+##### 4. Apple Magic Trackpad 2  
+##### 5. Jabra 85H Wireless Over-Ear Headphone
+##### 6: Logitech G304 Lightspeed Wireless Gaming Mouse, 12,000 DPI
+##### 7: Apple Watch SE
+##### 8: MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
+##### 9: Anker AK-848061074772 6-Port USB Wall Charger 
+##### 10. SoundMAGIC E80C Truly Wireless in Ear Earphone with Mic 
+
+### Archieved
+
+##### 1. Logitech H151 Headset with Noise-Cancelling Boom Microphone 
+##### 2. Soundmagic E10 Earbuds
+##### 3. HONOR Band 5
+##### 4. Mi 10000mAH Lithium-ion Power Bank  
+##### 5. TP Link 7 port USB Hub 
+##### 6. BOSE Companion® 3 Series II multimedia system
+##### 7. Dell 24 inch Ultra Thin Bezel LED Backlit Computer Monitor , IPS Panel with HDMI 
+##### 8. Jabra Talk 45 Bluetooth Headset
+
+
