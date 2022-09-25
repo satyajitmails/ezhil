@@ -2,7 +2,7 @@ baseURL = "https://satyajitpanda.com/"
 languageCode = "en-us"
 title = "Satyajit Panda"
 theme = "ezhil"
-paginate = 5
+paginate = 2
 
 copyright = "© Copyright notice"
 
