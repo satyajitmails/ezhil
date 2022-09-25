@@ -3,7 +3,7 @@ title: "Smart process and human in the loop"
 date: 2018-04-02T02:01:58+05:30
 description: "Smart process and human in the loop"
 tags: [AI,Machine learning,Smart process,Human in the loop]
-draft: false
+draft: true
 ---
 
 ## Why Human in the loop is important to create Smart Processes?
