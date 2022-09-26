@@ -13,6 +13,10 @@ to compare their feature offerings. The winner here is VMWare TAS due to the ove
 focusing on multi-cloud and containerisation.
 
 ### TAS – REDHAT CLOUDFOUNDRY comparison Table - Broad
-|Feature                   |VMWare TAS                                                 |REDHAT CloudFoundry                                             |
-|--------------------------|-----------------------------------------------------------|----------------------------------------------------------------|
-|                          |                                                           |                                                                |
+|Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
+|--------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
+|Provide runtime environment           |                                                           |                                               |                 |Application life-cycle management     |                                                           |                                               |
+|Ensure viability of application logic |                                                           |                                               | 
+|Support application deployments       |                                                           |                                               | 
+|Support cloud-style operations        |                                                           |                                               |
+---------------------------------------------------------------------------------------------------------------------------------------------------|
