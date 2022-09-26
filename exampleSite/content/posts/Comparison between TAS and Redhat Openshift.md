@@ -19,3 +19,4 @@ focusing on multi-cloud and containerisation.
 |Ensure viability of application logic |                                                           |                                               | 
 |Support application deployments       |                                                           |                                               | 
 |Support cloud-style operations        |                                                           |                                               |
+|--------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
