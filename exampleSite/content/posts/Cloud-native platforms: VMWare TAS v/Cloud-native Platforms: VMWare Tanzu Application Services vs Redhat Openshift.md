@@ -16,11 +16,11 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 
 #### Final score
 - [x] VMWare TAS = (63.2/14) = 4.5
-- [ ] REDHAT CloudFoundry = (57.9/14) = 4.1
+- [ ] REDHAT Openshift = (57.9/14) = 4.1
 
 #### 1.1 Comparison Table - Overall Capability Score
 
-|Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
+|Feature                               |VMWare TAS                                                 |REDHAT Openshift                               |
 |--------------------------------------|:---------------------------------------------------------:|:---------------------------------------------:|
 |Provide runtime environment           |           4.8                                             |                4.5                            |
 |Application life-cycle management     |           4.7                                             |                4.0                            |
