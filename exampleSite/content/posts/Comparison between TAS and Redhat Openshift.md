@@ -13,3 +13,8 @@ to compare their feature offerings. The winner here is VMWare TAS due to the ove
 focusing on multi-cloud and containerisation.
 
 ### Comparision Table
+|C1 |C2 |C3 |C4 |C5 |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
