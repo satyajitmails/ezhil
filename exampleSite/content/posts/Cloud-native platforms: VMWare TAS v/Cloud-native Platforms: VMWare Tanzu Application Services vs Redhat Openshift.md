@@ -2,7 +2,7 @@
 title: "Cloud-native Platforms: VMWare Tanzu Application Services vs Redhat Openshift"
 date: 2022-01-02T02:02:30+05:30
 description: "Cloud-native Platforms: VMWare Tanzu Application Servives vs Redhat Openshift"
-tags: [TAS,Cloud,Redhat,CloudFoundry,Vmware, Openshift ]
+tags: [TAS,Cloud,Redhat,Vmware, Openshift ]
 draft: false
 ---
 
