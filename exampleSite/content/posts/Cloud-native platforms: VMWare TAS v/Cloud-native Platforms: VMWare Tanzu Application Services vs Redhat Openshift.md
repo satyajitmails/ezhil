@@ -15,8 +15,8 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 
 
 #### Final score
-- [x] VMWare TAS = (63.2/14) = 4.5
-- [ ] REDHAT Openshift = (57.9/14) = 4.1
+- [x] VMWare TAS = (63.2 / 14) = 4.5
+- [ ] REDHAT Openshift = (57.9 / 14) = 4.1
 
 #### 1.1 Comparison Table - Overall Capability Score
 
