@@ -1,6 +1,6 @@
 ---
 title: "Comparison between VMWare Tanzu Application Services and Redhat Openshift"
-date: 2020-11-02T02:02:30+05:30
+date: 2022-01-02T02:02:30+05:30
 description: "Comparison between VMWare Tanzu Application Servives and Redhat Openshift"
 tags: [TAS,Cloud,Redhat,CloudFoundry,Vmware, Openshift ]
 draft: false
@@ -12,7 +12,8 @@ draft: false
 Here is a scoring table used to compare their feature offerings. The winner here is VMWare TAS in lieu of the overall scoring from the evaluation
 panel with representatives from Application architecture, Security, Infra, Enterprise architecture and CTO orgalization due to an inspiring technical roadmap.
 
-Future - This comparision was done in 2nd quarter of 2020 and VMWare hence came up with Tanzu Application Platform(TAP) based on Kubernetes which will be a very strong contender and a possible winner in this race due to hybrid and multicloud strategy.It also has an array of supporting software's to develop a strong cloud-native and microservices based architecture.
+### What I will consider if I will do it now?(2022)
+This comparision was done in 2nd quarter of 2020 and VMWare hence came up with Tanzu Application Platform(TAP) based on Kubernetes which is a very strong contender and a possible winner in this race due to hybrid and multicloud strategy.It also has an array of supporting software's to develop a strong cloud-native and microservices based architecture.
 
 
 ### Final score
