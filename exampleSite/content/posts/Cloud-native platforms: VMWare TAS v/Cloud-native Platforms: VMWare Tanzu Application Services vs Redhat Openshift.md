@@ -30,14 +30,14 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 
 #### 1.2 Comparison Table - Evaluation & Contracting
 
-|Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
+|Feature                               |VMWare TAS                                                 |REDHAT Openshift                               |
 |--------------------------------------|:---------------------------------------------------------:|:---------------------------------------------:|
 |Pricing Flexibility                   |                   4.0                                     |                 4.2                           |
 |Ability to Understand Needs           |                   4.4                                     |                 4.4                           |
 
 #### 1.3 Comparison Table - Integration & Deployment
 
-|Feature                                           |VMWare TAS                                        |REDHAT CloudFoundry                       |
+|Feature                                           |VMWare TAS                                        |REDHAT Openshift                          |
 |--------------------------------------------------|:------------------------------------------------:|:----------------------------------------:|
 |Ease of Deployment                                |                    4.4                           |              4.0                         |
 |Quality of End-User Training                      |                    4.3                           |              4.0                         |
@@ -46,7 +46,7 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 
 #### 1.4 Comparison Table - Service & Support
 
-|Feature                                           |VMWare TAS                                        |REDHAT CloudFoundry                       |
+|Feature                                           |VMWare TAS                                        |REDHAT Openshift                          |
 |--------------------------------------------------|:------------------------------------------------:|:----------------------------------------:|
 |Timeliness of Vendor Response                     |               4.6                                |           4.1                            |
 |Quality of Peer User Community                    |               4.7                                |           4.1                            |
