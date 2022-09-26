@@ -12,11 +12,22 @@ VmWare Tanzu Application Services and Redhat CloudFoundry are leading contender 
 to compare their feature offerings. The winner here is VMWare TAS due to the overall scoring and a inspiring technical roadmap
 focusing on multi-cloud and containerisation.
 
-### TAS – REDHAT CLOUDFOUNDRY comparison Table - Broad
+### TAS – REDHAT CLOUDFOUNDRY comparison Table - Overall Capability Score
+
 |Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
 |--------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
 |Provide runtime environment           |                                                           |                                               |  |Application life-cycle management     |                                                           |                                               |
 |Ensure viability of application logic |                                                           |                                               | 
 |Support application deployments       |                                                           |                                               | 
 |Support cloud-style operations        |                                                           |                                               |
+
+### TAS – REDHAT CLOUDFOUNDRY comparison Table - Evaluation & Contracting
+
+|Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
 |--------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
+|Provide runtime environment           |                                                           |                                               |  |Application life-cycle management     |                                                           |                                               |
+|Ensure viability of application logic |                                                           |                                               | 
+|Support application deployments       |                                                           |                                               | 
+|Support cloud-style operations        |                                                           |                                               |
+
+
