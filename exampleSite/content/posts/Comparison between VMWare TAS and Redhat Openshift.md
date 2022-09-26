@@ -8,7 +8,7 @@ draft: false
 
 ## Comparison between VMWare Tanzu Application Services and Redhat Openshift
 
-[VmWare Tanzu Application Services](https://tanzu.vmware.com/application-service) and (https://www.redhat.com/en/technologies/cloud-computing/openshift)[Redhat Openshift]() are leading contender in the application platform war for cloud-native architecture's.
+[VmWare Tanzu Application Services](https://tanzu.vmware.com/application-service) and [Redhat Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift) are leading contender in the application platform war for cloud-native architecture's.
 Here is a scoring table used to compare their feature offerings. The winner here is VMWare TAS in lieu of the overall scoring from the evaluation
 panel with representatives from Application architecture, Security, Infra, Enterprise architecture and CTO orgalization due to an inspiring technical roadmap.
 
