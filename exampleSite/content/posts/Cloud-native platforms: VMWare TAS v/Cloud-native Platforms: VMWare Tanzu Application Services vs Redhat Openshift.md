@@ -1,12 +1,12 @@
 ---
-title: "Cloud-native platforms: VMWare Tanzu Application Services v/s Redhat Openshift"
+title: "Cloud-native Platforms: VMWare Tanzu Application Services vs Redhat Openshift"
 date: 2022-01-02T02:02:30+05:30
-description: "Cloud-native platforms: VMWare Tanzu Application Servives v/s Redhat Openshift"
+description: "Cloud-native Platforms: VMWare Tanzu Application Servives vs Redhat Openshift"
 tags: [TAS,Cloud,Redhat,CloudFoundry,Vmware, Openshift ]
 draft: false
 ---
 
-## Cloud-native platforms: VMWare Tanzu Application Services v/s Redhat Openshift
+## Cloud-native Platforms: VMWare Tanzu Application Services vs Redhat Openshift
 
 [VmWare Tanzu Application Services](https://tanzu.vmware.com/application-service) and [Redhat Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift) are leading contender's in the application platform war for cloud-native architecture's.
 Here is a scoring table used to compare their feature offerings. The winner here is VMWare TAS in lieu of the overall scoring from the evaluation
