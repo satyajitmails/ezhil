@@ -16,7 +16,7 @@ focusing on multi-cloud and containerisation.
 
 |Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
 |--------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
-|Provide runtime environment           |                                                           |                                               |  |Application life-cycle management     |                                                           |                                               |
+|Application life-cycle management     |                                                           |                                               |
 |Ensure viability of application logic |                                                           |                                               | 
 |Support application deployments       |                                                           |                                               | 
 |Support cloud-style operations        |                                                           |                                               |
