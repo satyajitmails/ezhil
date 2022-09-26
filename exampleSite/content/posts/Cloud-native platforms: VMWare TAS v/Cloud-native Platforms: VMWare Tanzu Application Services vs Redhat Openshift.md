@@ -20,7 +20,7 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 - [x] VMWare TAS = (63.2/14) = 4.5
 - [ ] REDHAT CloudFoundry = (57.9/14) = 4.1
 
-### Comparison Table - Overall Capability Score
+### 1.1 Comparison Table - Overall Capability Score
 
 |Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
 |--------------------------------------|:---------------------------------------------------------:|:---------------------------------------------:|
@@ -30,14 +30,14 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 |Support application deployments       |           4.8                                             |                4.3                            | 
 |Support cloud-style operations        |           4.7                                             |                4.1                            |
 
-### Comparison Table - Evaluation & Contracting
+### 1.2 Comparison Table - Evaluation & Contracting
 
 |Feature                               |VMWare TAS                                                 |REDHAT CloudFoundry                            |
 |--------------------------------------|:---------------------------------------------------------:|:---------------------------------------------:|
 |Pricing Flexibility                   |                   4.0                                     |                 4.2                           |
 |Ability to Understand Needs           |                   4.4                                     |                 4.4                           |
 
-### Comparison Table - Integration & Deployment
+### 1.3 Comparison Table - Integration & Deployment
 
 |Feature                                           |VMWare TAS                                        |REDHAT CloudFoundry                       |
 |--------------------------------------------------|:------------------------------------------------:|:----------------------------------------:|
@@ -46,7 +46,7 @@ This comparision was done in 2nd quarter of 2020 and VMWare hence came up with T
 |Ease of Integration using Standard APIs and Tools |                    4.6                           |              4.1                         |     
 |Availability of 3rd-Party Resources               |                    4.2                           |              3.9                         | 
 
-### Comparison Table - Service & Support
+### 1.4 Comparison Table - Service & Support
 
 |Feature                                           |VMWare TAS                                        |REDHAT CloudFoundry                       |
 |--------------------------------------------------|:------------------------------------------------:|:----------------------------------------:|
