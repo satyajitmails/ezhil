@@ -14,8 +14,8 @@ from scratch never works and cannot be patched up to make it work. You have to s
 Systems in general work poorly or not at all. 
 
 Two representative corollaries of this theory are: 
-- Large systems usually operate in failure mode.  
-- The system tends to oppose its own proper function. 
+* Large systems usually operate in failure mode.  
+* The system tends to oppose its own proper function. 
   
 Human failure while a part of many systems is not claimed as the underlying cause and instead it is suggested that the observed difficulties 
 are intrinsic to the system's operation.
