@@ -15,6 +15,7 @@ from scratch never works and cannot be patched up to make it work. You have to s
 Systems in general work poorly or not at all. 
 
 Two representative corollaries of this theory are: 
+
 1. Large systems usually operate in failure mode.  
 2. The system tends to oppose its own proper function. 
   
