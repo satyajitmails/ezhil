@@ -1,3 +1,10 @@
+---
+title: "You and Your Research by Dr. Richard W. Hamming"
+date: 2020-03-02T02:05:10+05:30
+description: "You and Your Research by Dr. Richard W. Hamming"
+tags: [Research]
+draft: false
+---
 ### You and Your Research by Dr. Richard W. Hamming
 
 It's a pleasure to be here. I doubt if I can live up to the Introduction. The title of my talk is, ``You and Your Research.'' It is not about managing research, it is about how you individually do your research. I could give a talk on the other subject - but it's not, it's about you. I'm not talking about ordinary run-of-the-mill research; I'm talking about great research. And for the sake of describing great research I'll occasionally say Nobel-Prize type of work. It doesn't have to gain the Nobel Prize, but I mean those kinds of things which we perceive are significant things. Relativity, if you want, Shannon's information theory, any number of outstanding theories - that's the kind of thing I'm talking about.
