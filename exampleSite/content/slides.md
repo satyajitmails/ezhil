@@ -10,4 +10,6 @@ draft: false
 ### Presentations
 
 #### 1.IBM Cloud Artificial Intelligence : A Comprehensive Overview  [https://www.slideshare.net/SatyajitPanda4/ibm-cloud-artificial-intelligence-a-comprehensive-overview](https://www.slideshare.net/SatyajitPanda4/ibm-cloud-artificial-intelligence-a-comprehensive-overview)
+
+#### 2.[Scaling Systems to Million Users](/202021041128-Scaling-million-users-outline.pdf)
 ---
