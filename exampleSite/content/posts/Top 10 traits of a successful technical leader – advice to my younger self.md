@@ -3,7 +3,7 @@ title: "Top 10 traits of a successful technical leader – advice to my younger 
 date: 2021-05-02T02:03:45+05:30
 description: "Top 10 traits of a successful technical leader – advice to my younger self"
 tags: [advice,technical ]
-draft: true
+draft: false
 ---
 
 ### Top 10 traits of a successful technical leader – advice to my younger self
@@ -13,11 +13,11 @@ For some time, I am thinking about exemplary traits of a successful technical le
 Also, countless other factors shaped me like learning from failure, 
 It may be surprising to some that these advises are not technical in nature as being good technically is a fundamental trait of a technical leader. I am a firm believer of learning by first principles and try to adjust my mental models accordingly. I will be happy if it helps someone in any way. 
  
-1. Create value for business 
+#### 1. Create value for business 
 Any job in any organization has only one purpose, create value for business. It sounds simple but it is easy to loss this key principle in layers of day-to-day churn. A technical leader's foremost task is to take a step-back regularly to have a macro-view to understand the business and the users and then create value for them using a micro-view of the technology. It always helps to listen to business then be technically right.
 Business-technology-Users metrices can work as North-stars to enable it.
  
-2. Systems thinking 
+#### 2. Systems thinking 
 The ability to understand a system from end to end. This entails but not limited to the software's used, the hardware, the integration with 3rd-party, the network, the different perspectives of using the system by different users’, competitors, trends etc. It is quite valuable to not live inside the silo's.
  
 3. Develop character 
