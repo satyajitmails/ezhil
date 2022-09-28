@@ -1,12 +1,12 @@
 ---
-title: "Top 10 traits of a successful technical leader – advice to my younger self"
+title: "Top 10 traits of a successful technical leader"
 date: 2021-05-02T02:03:45+05:30
-description: "Top 10 traits of a successful technical leader – advice to my younger self"
+description: "Top 10 traits of a successful technical leader"
 tags: [advice,technical ]
 draft: false
 ---
 
-### Top 10 traits of a successful technical leader – advice to my younger self
+### Top 10 traits of a successful technical leader
  
 For some time, I am thinking about exemplary traits of a successful technical leader. This is based on my 2 decades of experience in the field of software development. I am blessed and fortunate enough to work with great peers, managers, customers, mentees throughout my career.
 
