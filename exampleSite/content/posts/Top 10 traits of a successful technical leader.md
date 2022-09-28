@@ -24,13 +24,13 @@ The ability to understand a system from end to end. This entails but not limited
 It is about being resilient to failures, developing highest form of integrity and most importantly taking ownership for each failure and fix it. The only thing people around you want is a better version of you. Be that guy.
  
 #### 4. Automation
-As an architect you are in a leveraged position to save countless engineering cycles. You want the engineers look into more valuable problems then doing the same job repeatedly. Automate as much as you can and as many places you can and as early as you can.
+As an architect you are in a leveraged position to save countless engineering cycles. You want the engineers look into more valuable problems then doing the same job repeatedly. Automate as much as you can, as many places you can and as early as you can.
  
 #### 5. Don't look for novelty
 I have seen this mistake many times where people spend a lot of time on looking for novel solutions. great is the enemy of good. You can put a good enough solution to start with and then improve iteratively and build upon that. You can always discard it if it doesn't work and start with a new approach. The bonus here is the time and effort you save by taking a decision early enough.
 Same goes for the trial and tested solutions vs shiny new tools. I generally follow a technology curve-based approach where I try to get acquainted with a technology early and then watch for its maturity over time. Depending upon its adoption in community and pace of progress when it reaches a certain maturity level then I adopt it into a suitable use case. Timing is the king.
  
-#### 6. Ask open-ended and fuzzy questions and improve the system
+#### 6. Ask open-ended and fuzzy questions to improve the system
 A small improvement of 2% in a system can go a long way in team and user satisfaction or can lead to huge savings of cost, effort for the business.
  
 #### 7. Giveback to the community and mentoring
