@@ -1,4 +1,10 @@
-
+---
+title: "Top 10 traits of a successful technical leader – advice to my younger self"
+date: 2021-05-02T02:03:45+05:30
+description: "Top 10 traits of a successful technical leader – advice to my younger self"
+tags: [advice,technical ]
+draft: true
+---
 
 ### Top 10 traits of a successful technical leader – advice to my younger self
  
