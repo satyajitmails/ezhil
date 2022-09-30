@@ -72,7 +72,4 @@ Vimeo
 
 {{< vimeo id="146022717" >}}
 
-Instagram
-
-{{< instagram BWNjjyYFxVx >}}
 
