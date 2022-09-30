@@ -49,3 +49,8 @@ I think you should use an
 `<addr>` element here instead.
 
 [GitHub](http://github.com)
+  
+#### Twitter
+  {{< tweet 877500564405444608 >}}
+
+
