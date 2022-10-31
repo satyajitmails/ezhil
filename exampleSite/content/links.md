@@ -15,6 +15,7 @@ draft: false
 ##### 5. Brendan D. Gregg. [http://www.brendangregg.com/](http://www.brendangregg.com/)
 ##### 6. Shane Parrish. [https://fs.blog/](https://fs.blog)
 ##### 7. Tim Ferriss. [https://tim.blog/](https://tim.blog)
+##### 8. Seth Godin. [https://seths.blog/](https://seths.blog)
 
 ### Blogs I read
 
