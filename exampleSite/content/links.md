@@ -13,6 +13,7 @@ draft: false
 ##### 3. Marc Andreessen. [https://pmarchive.com](https://pmarchive.com)
 ##### 4. Derek Sivers. [https://sivers.org/](https://sivers.org/)
 ##### 5. Brendan D. Gregg. [http://www.brendangregg.com/](http://www.brendangregg.com/)
+##### 6. Shane Parrish. [https://fs.blog/](https://fs.blog)
 
 ### Blogs I read
 
