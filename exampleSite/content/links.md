@@ -9,13 +9,12 @@ draft: false
 ### People I learn from
 
 ##### 1. Paul Graham. [http://www.paulgraham.com](http://www.paulgraham.com)
-##### 2. Joel Spolsky. [https://www.joelonsoftware.com](https://www.joelonsoftware.com)
-##### 3. Marc Andreessen. [https://pmarchive.com](https://pmarchive.com)
-##### 4. Derek Sivers. [https://sivers.org](https://sivers.org)
-##### 5. Brendan D. Gregg. [http://www.brendangregg.com](http://www.brendangregg.com)
-##### 6. Shane Parrish. [https://fs.blog](https://fs.blog)
-##### 7. Tim Ferriss. [https://tim.blog](https://tim.blog)
-##### 8. Seth Godin. [https://seths.blog](https://seths.blog)
+##### 2. Marc Andreessen. [https://pmarchive.com](https://pmarchive.com)
+##### 3. Derek Sivers. [https://sivers.org](https://sivers.org)
+##### 4. Brendan D. Gregg. [http://www.brendangregg.com](http://www.brendangregg.com)
+##### 5. Shane Parrish. [https://fs.blog](https://fs.blog)
+##### 6. Tim Ferriss. [https://tim.blog](https://tim.blog)
+##### 7. Seth Godin. [https://seths.blog](https://seths.blog)
 
 
 ### Blogs I read
@@ -27,6 +26,8 @@ draft: false
 ##### 3. Martin Fowler. [https://martinfowler.com](https://martinfowler.com)
 ##### 4. Werner Vogels. [https://www.allthingsdistributed.com](https://www.allthingsdistributed.com)
 ##### 5. Will Larson. [https://lethain.com](https://lethain.com)
+##### 6. Joel Spolsky. [https://www.joelonsoftware.com](https://www.joelonsoftware.com)
+
 
 
 #### Business
