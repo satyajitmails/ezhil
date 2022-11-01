@@ -38,4 +38,5 @@ draft: false
 ##### 3. Teach Yourself Programming in Ten Years [https://norvig.com/21-days.html](https://norvig.com/21-days.html)
 ##### 4. Fallacies of Distributed Computing Explained [https://www.researchgate.net/publication/322500050_Fallacies_of_Distributed_Computing_Explained](https://www.researchgate.net/publication/322500050_Fallacies_of_Distributed_Computing_Explained)
 ##### 5. The Big Ball of Mud and Other Architectural Disasters [https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/)
+##### 6. Please stop calling databases CP or AP [https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
   
