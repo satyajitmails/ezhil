@@ -35,4 +35,7 @@ draft: false
 #### Classic Papers
 ##### 1. Big Ball of Mud [http://www.laputan.org/mud/](http://www.laputan.org/mud)
 ##### 2. You and your research [https://www.cs.virginia.edu/~robins/YouAndYourResearch.html](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+##### 3. Teach Yourself Programming in Ten Years [https://norvig.com/21-days.html](https://norvig.com/21-days.html)
+##### 4. Fallacies of Distributed Computing Explained [https://www.researchgate.net/publication/322500050_Fallacies_of_Distributed_Computing_Explained](https://www.researchgate.net/publication/322500050_Fallacies_of_Distributed_Computing_Explained)
+
   
