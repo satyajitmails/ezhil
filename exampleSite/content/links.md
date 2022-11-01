@@ -31,4 +31,8 @@ draft: false
 
 #### Business
 ##### 1. HBR. [https://hbr.org](https://hbr.org)
+
+#### Classic Papers
+##### Big Ball of Mud [http://www.laputan.org/mud/](http://www.laputan.org/mud)
+##### You and your research [https://www.cs.virginia.edu/~robins/YouAndYourResearch.html](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
   
