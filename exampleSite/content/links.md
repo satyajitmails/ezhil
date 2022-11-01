@@ -16,9 +16,6 @@ draft: false
 ##### 6. Shane Parrish. [https://fs.blog](https://fs.blog)
 ##### 7. Tim Ferriss. [https://tim.blog](https://tim.blog)
 ##### 8. Seth Godin. [https://seths.blog](https://seths.blog)
-##### 9. Martin Fowler. [https://martinfowler.com](https://martinfowler.com)
-##### 10.Werner Vogels. [https://www.allthingsdistributed.com](https://www.allthingsdistributed.com)
-##### 11.Will Larson. [https://lethain.com](https://lethain.com)
 
 
 ### Blogs I read
@@ -27,6 +24,10 @@ draft: false
 
 ##### 1. Netflix Tech Blog. [https://netflixtechblog.com](https://netflixtechblog.com)
 ##### 2. High Scalability blog. [http://highscalability.com](http://highscalability.com)
+##### 3. Martin Fowler. [https://martinfowler.com](https://martinfowler.com)
+##### 4. Werner Vogels. [https://www.allthingsdistributed.com](https://www.allthingsdistributed.com)
+##### 5. Will Larson. [https://lethain.com](https://lethain.com)
+
 
 #### Business
 ##### 1. HBR. [https://hbr.org](https://hbr.org)
