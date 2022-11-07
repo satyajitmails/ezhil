@@ -44,7 +44,7 @@ World is full of abundant opportunities. There is enough for everyone. The only 
 #### 9. Improve your problem-solving ability
 I am surprised many times that when we frame situations as problems we can see lots of opportunities around that problem. Don’t think problems as blocker but door to growth opportunities.
  
-#### 10. Learn and unlearn
+#### 10. Learn, unlearn, re-learn
 The technology industry is undergoing a sea change with a flurry of innovations. Learn and unlearn as and when required. Accept the fact that you will not know everything, and others may know more then you. I am a huge fan of collective intelligence of humans and the believe that this trait probably is fundamental to our progress vs other species. Learn to leverage that.
  
 > Life is short, have fun! You got to stop and smell the roses.
