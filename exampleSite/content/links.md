@@ -41,4 +41,5 @@ draft: false
 ##### 5. The Big Ball of Mud and Other Architectural Disasters [https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/)
 ##### 6. Please stop calling databases CP or AP [https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 ##### 7. CAP Twelve Years Later: How the "Rules" Have Changed [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
+##### 8. Attention Is All You Need [https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
   
