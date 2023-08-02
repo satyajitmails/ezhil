@@ -30,7 +30,7 @@ on the table. This works, and this works every single time. This may be the ‘o
 It’s the people, it’s always the people. Topmost priority of any manager is the well-being and success of the people. Managers’ 
 who have understood can have all the earth and heaven at their disposal.
 
-I remember a story about Peter Levchin of PayPal. Whenever a new team member joins his team he will sit down with them and ask 
+I remember a story about Max Levchin of PayPal. Whenever a new team member joins his team he will sit down with them and ask 
 their next 3-5 years professional and personal goal. Then he promised to help them in any manner possible to achieve the goal 
 and he is often successful doing that. There is no better way to win people than being an equal stakeholder in all of their success. 
 When you win your people they will do things beyond your imagination to make you successful.
