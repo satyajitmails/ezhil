@@ -90,7 +90,7 @@ give someone time you also show that you value them. And everyone feels the need
 the great free perks you can give any human being. Great leaders make time to listen to their people’s opinion, issues and 
 find innovative ways to connect to their people no matter how busy they are.  
 
-Another Peter Levchin story, excerpts from the Inc article,[Inc article](https://www.inc.com/magazine/201505/liz-welch/max-levchin-way-i-work.html).
+Another Max Levchin story, excerpts from the Inc article,[Inc article](https://www.inc.com/magazine/201505/liz-welch/max-levchin-way-i-work.html).
 “I travel a lot, so when I'm there, I want to be available. I have two desks on different sides of the office, but I rarely sit 
 at either. Instead, I usually sit at the very center of the office in the cafeteria area, on a bench, across from the bathroom. 
 Sitting across from the bathroom was a strategic choice, because everybody has to go at some point. There's always someone passing 
