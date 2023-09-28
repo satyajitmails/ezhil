@@ -42,4 +42,6 @@ draft: false
 ##### 6. Please stop calling databases CP or AP [https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 ##### 7. CAP Twelve Years Later: How the "Rules" Have Changed [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 ##### 8. Attention Is All You Need [https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
+##### 9. The power of good design - Dieter Rams’s ideology, engrained within Vitsœ [https://www.vitsoe.com/rw/about/good-design](https://www.vitsoe.com/rw/about/good-design)
+
   
