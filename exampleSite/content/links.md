@@ -43,5 +43,6 @@ draft: false
 ##### 7. CAP Twelve Years Later: How the "Rules" Have Changed [https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 ##### 8. Attention Is All You Need [https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
 ##### 9. The power of good design - Dieter Rams’s ideology, engrained within Vitsœ [https://www.vitsoe.com/rw/about/good-design](https://www.vitsoe.com/rw/about/good-design)
+##### 10. Jakob Nielsen's 10 general principles for interaction design [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
   
