@@ -15,6 +15,7 @@ draft: false
 ##### 5. Shane Parrish. [https://fs.blog](https://fs.blog)
 ##### 6. Tim Ferriss. [https://tim.blog](https://tim.blog)
 ##### 7. Seth Godin. [https://seths.blog](https://seths.blog)
+##### 8. Adam Grant. [https://adamgrant.net](https://adamgrant.net)
 
 
 ### Blogs I read
