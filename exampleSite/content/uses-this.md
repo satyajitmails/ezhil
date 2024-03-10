@@ -41,19 +41,22 @@ draft: false
 
 ### Hardware
 
-##### 1. MacBook Pro
-##### 2. Iphone X 
-##### 3. Beyerdynamic DT 770 Pro 32 Ohm Headphones
+##### 1. MacBook Pro M2
+##### 2. Iphone 13 
+##### 3. Kindle
 ##### 4. Apple Magic Trackpad 2  
 ##### 5. Jabra 85H Wireless Over-Ear Headphone
 ##### 6: Logitech G304 Lightspeed Wireless Gaming Mouse, 12,000 DPI
 ##### 7: Apple Watch SE
-##### 8: MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
-##### 9: Anker AK-848061074772 6-Port USB Wall Charger 
-##### 10. SoundMAGIC E80C Truly Wireless in Ear Earphone with Mic 
-##### 11: Kindle
-##### 12: MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast PD Charging | Input- Type C and Micro USB| Triple Output
-##### 13: TVS Electronics Gold Prime Mechanical Keyboard
+##### 8: Anker 10000 mAh PD Power Bank, PowerCore (Series 3), Fast Charging PowerIQ (PIQ) Technology, USB-C Input, USB-A & USB-C Output
+##### 9: Sennheiser HD 650 Over-Ear Wired Headphone Without Mic 
+##### 10. Sennheiser IE 200 in-Ear Hi-Res Audiophile Headphones
+##### 11: MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast PD Charging | Input- Type C and Micro USB| Triple Output
+##### 12: TVS Electronics Gold Prime Mechanical Keyboard
+##### 13: Logitech H111 Wired On Ear Headphones With Mic Black
+##### 14: Dell 24" (68.58 cm) FHD Monitor | 1920 x 1080 at 75Hz|IPS Panel|AMD Free Sync|3 Sided Ultrathin Bezel|250 Cd/M, 99% sRGB|Tilt Adjustable Stand| HDMI, Audio Line Out| S2422HN-Black
+##### 15: ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W
+
 
 ### Archieved
 
@@ -65,5 +68,13 @@ draft: false
 ##### 6. BOSE Companion® 3 Series II multimedia system
 ##### 7. Dell 24 inch Ultra Thin Bezel LED Backlit Computer Monitor , IPS Panel with HDMI 
 ##### 8. Jabra Talk 45 Bluetooth Headset
+##### 9. MacBook Pro
+##### 10. Iphone X
+##### 11: Beyerdynamic DT 770 Pro 32 Ohm Headphones
+##### 12. Anker AK-848061074772 6-Port USB Wall Charger
+##### 13. MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
+##### 14. SoundMagic E80C Truly Wireless in Ear Earphone with Mic (Red)
+##### 15. Apple Watch 3
+
 
 
