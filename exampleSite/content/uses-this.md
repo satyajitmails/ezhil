@@ -56,6 +56,8 @@ draft: false
 ##### 13: Logitech H111 Wired On Ear Headphones With Mic Black
 ##### 14: Dell 24" (68.58 cm) FHD Monitor | 1920 x 1080 at 75Hz|IPS Panel|AMD Free Sync|3 Sided Ultrathin Bezel|250 Cd/M, 99% sRGB|Tilt Adjustable Stand| HDMI, Audio Line Out| S2422HN-Black
 ##### 15: ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W
+##### 16: Apple Airpods Pro 2nd Gen
+##### 17: Honeywell 7-in-1 Type C Docking Station with 4K HDMI,1xUSB 3.0,2xUSB 2.0 & Type C 3.0 PD Charging 100W Port, SD & Micro SD Slot
 
 
 ### Archieved
@@ -73,7 +75,7 @@ draft: false
 ##### 11: Beyerdynamic DT 770 Pro 32 Ohm Headphones
 ##### 12. Anker AK-848061074772 6-Port USB Wall Charger
 ##### 13. MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
-##### 14. SoundMagic E80C Truly Wireless in Ear Earphone with Mic (Red)
+##### 14. SoundMagic E80C in Ear Earphone with Mic (Red)
 ##### 15. Apple Watch 3
 
 
