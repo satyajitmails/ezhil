@@ -42,7 +42,7 @@ draft: false
 ### Hardware
 
 ##### 1. MacBook Pro M2
-##### 2. Iphone 13 
+##### 2. Iphone 15 
 ##### 3. Kindle
 ##### 4. Apple Magic Trackpad 2  
 ##### 5. Jabra 85H Wireless Over-Ear Headphone
@@ -58,7 +58,7 @@ draft: false
 ##### 15: ASUS ROG Strix G17, 17.3-inch (43.94 cms) FHD 144Hz, AMD Ryzen 7 4800H, RTX 3050 Ti 4GB Graphics, Gaming Laptop (16GB/1TB SSD/Windows 11//Gray/2.4 kg), G713IE-HX040W
 ##### 16: Apple Airpods Pro 2nd Gen
 ##### 17: Honeywell 7-in-1 Type C Docking Station with 4K HDMI,1xUSB 3.0,2xUSB 2.0 & Type C 3.0 PD Charging 100W Port, SD & Micro SD Slot
-
+##### 18: Beyerdynamic DT 770 Pro 32 Ohm Headphones
 
 ### Archieved
 
@@ -72,11 +72,10 @@ draft: false
 ##### 8. Jabra Talk 45 Bluetooth Headset
 ##### 9. MacBook Pro
 ##### 10. Iphone X
-##### 11: Beyerdynamic DT 770 Pro 32 Ohm Headphones
-##### 12. Anker AK-848061074772 6-Port USB Wall Charger
-##### 13. MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
-##### 14. SoundMagic E80C in Ear Earphone with Mic (Red)
-##### 15. Apple Watch 3
-
+##### 11. Anker AK-848061074772 6-Port USB Wall Charger
+##### 12. MI 10000mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Triple Output Ports
+##### 13. SoundMagic E80C in Ear Earphone with Mic (Red)
+##### 14. Apple Watch 3
+##### 15. Apple Iphone 13
 
 
