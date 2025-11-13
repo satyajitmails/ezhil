@@ -1,0 +1,63 @@
+---
+title: "A Samurai, Starbucks, a tiny HongKong Island and GenAI application using Amazon Q with Claude Sonnet 4 as GenAI Model"
+date: 2025-09-09T02:02:30+05:30
+description: "A Samurai, Starbucks, a tiny HongKong Island and GenAI application using Amazon Q with Claude Sonnet 4 as GenAI Model"
+tags: [GenAI,Amazon Q, Claude ]
+draft: false
+---
+
+
+Somewhere around 2005, an Indian developer in Hong Kong went through a small philosophical quest, intrigued by the mystery of oriental China and imperial Japan. It was an interesting time for Hong Kong; the British had already left for their shores, China had not fully arrived, and it was magical. Highly energised crowd with a passion for the latest gadgets, fashionable clothes, lots of outdoor eating, weekend hobbies, lots of exciting nearby destinations and good people willing to help with wonderful staying localities made it an excellent place for young guys like us who are exploring career choices in far-off lands. After all, these South Asian countries are the largest and oldest magnificent civilisations where thousands of philosophers have walked the path and guided us to create meaning out of life from a mere existence.
+
+Article content
+Park Island, Hong Kong
+Somehow, I landed in Park Island after moving around quite a few places: a service apartment in Wan Chai, an apartment shared with a wonderful Sindhi family, to a remote apartment at the edge of Hong Kong and finally made this beautiful island my home for the next couple of years along with few colleagues who became very good friends along the way. Along with a few assignments of enhancing the software platform, I was responsible for designing a resource manager to effectively manage and plan the movement of containers, different cranes, like yard and shore cranes, to optimise cost. I also did good work in the ingestion of manifest files for ship movement and taking care of customs check, truck entry, gate handling, etc., using EDI through a capable open-source software named OpenAdaptor, which was using a state engine and capabilities for different formats of input and output handling, transformation etc.
+
+Article content
+DP World Terminal
+The presence of another fellow Indian developer who was hell bored simply due to his more capable nature with a scientific mindset flared the interest even more. He shyly confessed that he was secretly reading Chinese philosophy like The Art of War by Sun Tzu, a highly revered military general from the 5th BC in the Eastern Zhou dynasty. By now, the readers must have figured out that it's me and my dear colleague in the little quest. In alignment with our spirited youth, we took the current organisational setup and tried to see what we can apply from Chinese philosophy to the existing set of people, projects and behaviours. Over copious amounts of tea and coffee, we had long discussions while walking in the large and long corridor of a 13th-floor massive building inside one of Hong Kong’s busy terminals overlooking ships and containers lined up in the yard with massive cranes loading containers into giant trucks. We are pretty sure others were living in parallel universes, even to make sense of what we are doing, let alone care about what we have to say. And what did we find out? Humans are still the same after thousands of years, but that is the topic of another day.
+
+Article content
+Starbucks, Kwai Fong
+Somehow I didn't like the premise of The Art of War, as in modern life, it is not more about how vicious you can be to win, as those types of victory can be short-lived; rather, it is about how to act in your highest form of integrity so that you can build trust and attract like-minded people to form your tribe. One fine Saturday morning, while my roommates are deciding between squash and swim, I decided to dash to a bookstore in Times Square, but not before devouring a whole mushroom black pepper Quiche and washing it with a nice cup of steaming hot dark roasted Ethiopian coffee from Starbucks. I lunged directly to the philosophy section of the book shop and started scanning the books like airport security.
+
+Article content
+Bookshop, Causeway Bay
+Suddenly, I saw one title out of a hundred books poking out of the bookshelf. The cover gave it away as it is a Samurai in his full, glorious combat wear. The Book of Five Rings, authored by the 16th-century legendary Japanese Samurai Miyamoto Musashi, who had never lost a duel. To my adventurous self, it meant something, in medieval Japan 16th century, which was one of the most unsettling and disturbing periods. How could a Samurai remain unbeatable and live to tell the tale? A little reminder is that during that period, losing a duel means losing your life or losing your reputation, which is worse than death in a society with a high honour code, not a mean feat, I thought. What an unbelievable guy, but what shocked me is that he credited all his wins to his mind and not his body. What? I picked up the little book and settled into one of the reading stools in a corner. I will leave the interesting details of that book for readers to explore if they are interested, but one thing stands out from his philosophies - the middle way. It is Miyamoto Musashi's interpretation of a balanced, non-extreme approach to life and combat, aligning with broader philosophical principles like Buddhism's Middle Way. I picked the book, got it billed and started for home in the private ferry of Park Island.
+
+Article content
+Park Island Catamaran Ferry
+Article content
+Park Island Ferry Pier
+But not before I picked the customary whole weekend supply of lamb shawarma rolls, chicken curry rice bowls and biriyani from the legendary Sonthra kebab in Wan chai, a hole in the wall shop, but was giving bigger restaurant chains a run for their money. I was won over by the middle way and started adopting it in many situations and lived to tell the tale!
+
+Article content
+Sonthra Kebab, Wan Chai
+In 2025, again slowly, a space started emerging where it seems that this middle path can be exercised with its full glory, GenAI. After all, where can you find such extremes in the form of an AI that is taking the world by storm? Billions of dollars, great minds, AI laws, chip wars and customised chips, data wars, infra scaling, plethora of AI tools, hordes of people jumping to the AI bandwagon like it’s a gold rush, new features by AI providers almost every day, highly polarised opinions; so how can you look away, you human. I have my healthy scepticism toward GenAI in its place and am fairly confident that I can use my critical thinking to contain it to its rightful place whenever required.
+
+After reading lots of research papers on GenAI and LLM architecture, studying its mathematical foundation, hearing the views of many researchers, practitioners and entrepreneurs and playing around with AI tools, I decided to build a view about GenAI in code generation similar to the middle way, i.e., not to follow the extremes. There is a huge leadership push as well, with colleagues and customers jumping on it and discussing it daily. So GenAI has won the boardroom, it seems, as it plays the theatrics very well. On one side, there is a view that GenAI is overhyped to lead to AGI, and at another extreme, GenAI is said to replace jobs. I decided to park my critiques aside and explore it. So, how shall I think about GenAI/LLMs? Can Musashi’s middle path guide again for AI exploration, neither left nor right, but centre. Why not put on your builder hat, think of GenAI as a good tool and create something with it to build your opinion? This is to check what the tool is really capable of, and where I place it in my existing toolset. It is somewhere between the hype and zero-utility; what is its actual place?
+
+I was playing with GitHub Copilot for some time and creating varieties of application. Recently, in a daly long workshop I got an Amazon Q subscription from AWS partners, which is a GenAI capable of code generation supported by Claude Sonnet 4, arguably the best LLM for code generation out there. We tried an extensive end-to-end SDLC spec driven development based approach to create a project of medium complexity and were surprised by the result. It could create User stories, high-level design, low-level design, Code implementation and even identify Design patterns while gluing them together, all from carefully crafted intelligent prompts. It could also add the elements of security, performance considerations, format compliances even multithreading as a choice of implementation. It gave me a choice of languages, tech stack, database, middleware, messaging, caching, etc. Not perfect, but a good start. I thought of trying something in a shorter format.
+
+I decided to use Java and later regretted it a bit due to the verbosity it created. The regret was more due to my self-imposed time constraint, as for LLM's it doesn't matter. You can always generate the implementation code in a different language, which I think is a big advantage. I am somewhat impressed despite the limitations. It's not a silver bullet, not a genie either, but it's a solid tool in the hands of an expert.
+
+I got reasonably excited, which felt like I could keep on going with this thing forever, so one colleague light-heartedly commented that it is like doom scrolling! After I was back home, wifey commented that you have a huge smile of happiness today in your face and are looking happy like you used to, what hit you?
+
+The first Sunday after the event, I picked up a mini goal, i.e., to build an ESG(Environmental, Social, and Governance) dashboard in a small footprint, sans the full phased SDLC-based implementation, only the front end, back end and dummy data. The ESG scoring framework evaluates a company’s performance across Environmental, Social, and Governance dimensions, providing investors and stakeholders with a holistic view of its sustainability practices and risk profile. A quick and good enough prototype that can be demonstrated. I decided to follow a minimal approach of Prompt->Code generation->Debugging->Deployment, skipping the extensive SDLC phases.
+
+This time, I used Python for both front-end and backend. From the provided prompt, it generated the implementation code, tried to run it, co-debugged multiple times and voila, finally deployed. I looked under the hood, and it generated multiple files by using modularity. The code is neatly written, well formatted, and can act as a good scaffolding for more ambitious projects. I tried updating the frontend by moving component positions, adding more test data, and adding new UI components, all with prompts, and it worked with little or no interference. It ran the server inside Visual Code and created a small instruction manual on how to access it. It created a Dashboard which looked like this after a few tweaks.
+
+Article content
+ESG Dashboard
+What blew my mind is that the whole thing took just a couple of hours on a lazy Sunday morning! So, the highly intelligent and directionless intern has arrived; you need to guide them.
+
+Some observations - GenAI/LLM can be used to create quick and effective deployable and runnable prototypes. With the right context engineering, you can also create smaller pieces of components and then glue them together, which can be effective. As we can think much faster than we can code, this can be advantageous to create the initial scaffolding. As of now, it will struggle when you try to extend it to more complex applications. Code generation is swift, but bigger change sets and debugging are challenging.
+
+Catch - Creating a production-grade application of medium/high complexity is a different project altogether and needs broader and wider skillsets supplemented by decades of software engineering experience supported by well grounded principles. You need architecture, planning, collaborations, security, performance, and quality considerations, which hold good for any decent-sized software project. Code creation is only a small part of the larger equation. So here we are.
+
+I have shared the code in the GitHub repository - https://github.com/satyajitmails/ESG-Dashboard. Please go through and provide comments if any.
+
+Will AI ever take my job, like ever? Frankly, dear, I don’t give a damn! Enjoy the ride and see where it leads you.
+
+#GenAI #LLM #CodeGeneration #SDLC #Software #Claude-Sonnet #AmazonQ #VisualStudioCode #Python #Github #Hong Kong #SpecDrivenDevelopment
+
